@@ -11,7 +11,7 @@
             "versions": {
                 "1.0.0": {
                     "app_version": ">=0.2.2",
-                    "url": "https://github.com/funpayhub/fph_exec_plugin/archive/refs/tags/v1.0.0.zip",
+                    "url": "https://github.com/funpayhub/fph_chat_sync_plugin/releases/download/v1.0.0/chat_sync.zip",
                     "change_log": ""
                 }
             },
@@ -23,7 +23,7 @@
             "versions": {
                 "1.0.0": {
                     "app_version": ">=0.2.2",
-                    "url": "https://github.com/funpayhub/fph_chat_sync_plugin/archive/refs/tags/v1.0.0.zip",
+                    "url": "https://github.com/funpayhub/fph_exec_plugin/releases/download/v1.0.0/exec_plugin.zip",
                     "change_log": ""
                 }
             },
