@@ -1,0 +1,33 @@
+{
+    "description": "Официальный репозиторий плагинов FunPayHub.",
+    "version": 1,
+    "id": "com.github.funpayhub.repo",
+    "url": "https://github.com/funpayhub/fph_plugins_repo",
+    "name": "Плагины FunPayHub",
+    "plugins": {
+        "com.github.qvvonk.funpayhub.chat_sync_plugin": {
+            "description": "Синхронизирует чаты FunPay с Telegram-чатом. Каждому чату FunPay соответствует отдельная тема в Telegram, что позволяет удобно вести диалоги и не терять контекст. Сообщения автоматически пересылаются в обоих направлениях: из FunPay в Telegram и из Telegram обратно в соответствующий чат FunPay.",
+            "name": "Chat Sync",
+            "versions": {
+                "1.0.0": {
+                    "app_version": ">=0.2.2",
+                    "url": "https://github.com/funpayhub/fph_exec_plugin/archive/refs/tags/v1.0.0.zip",
+                    "change_log": ""
+                }
+            },
+            "more_versions": ""
+        },
+        "com.github.qvvonk.exec_plugin": {
+            "description": "Предоставляет возможность выполнять произвольный Python-код, включая асинхронный, в Telegram-боте. Фрагменты кода и их вывод можно сохранять и повторно исполнять.",
+            "name": "Exec Plugin",
+            "versions": {
+                "1.0.0": {
+                    "app_version": ">=0.2.2",
+                    "url": "https://github.com/funpayhub/fph_chat_sync_plugin/archive/refs/tags/v1.0.0.zip",
+                    "change_log": ""
+                }
+            },
+            "more_versions": ""
+        }
+    }
+}
