@@ -2,7 +2,7 @@
     "description": "Официальный репозиторий плагинов FunPayHub.",
     "version": 1,
     "id": "com.github.funpayhub.repo",
-    "url": "https://github.com/funpayhub/fph_plugins_repo",
+    "url": "https://raw.githubusercontent.com/funpayhub/fph_plugins_repo/refs/heads/master/com.github.funpayhub.repo.json",
     "name": "Плагины FunPayHub",
     "plugins": {
         "com.github.qvvonk.funpayhub.chat_sync_plugin": {
