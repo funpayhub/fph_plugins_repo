@@ -3,7 +3,7 @@
     "version": 1,
     "id": "com.github.funpayhub.repo",
     "url": "https://raw.githubusercontent.com/funpayhub/fph_plugins_repo/refs/heads/master/com.github.funpayhub.repo.json",
-    "name": "Плагины FunPayHub",
+    "name": "Официальные FPH плагины",
     "plugins": {
         "com.github.qvvonk.funpayhub.chat_sync_plugin": {
             "description": "Синхронизирует чаты FunPay с Telegram-чатом. Каждому чату FunPay соответствует отдельная тема в Telegram, что позволяет удобно вести диалоги и не терять контекст. Сообщения автоматически пересылаются в обоих направлениях: из FunPay в Telegram и из Telegram обратно в соответствующий чат FunPay.",
