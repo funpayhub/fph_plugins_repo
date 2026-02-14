@@ -6,39 +6,61 @@
     "name": "Официальные FPH плагины",
     "plugins": {
         "com.github.qvvonk.funpayhub.chat_sync_plugin": {
-            "description": "Синхронизирует чаты FunPay с Telegram-чатом. Каждому чату FunPay соответствует отдельная тема в Telegram, что позволяет удобно вести диалоги и не терять контекст. Сообщения автоматически пересылаются в обоих направлениях: из FunPay в Telegram и из Telegram обратно в соответствующий чат FunPay.",
             "name": "Chat Sync",
-            "versions": {
-                "1.0.0": {
-                    "app_version": ">=0.2.2",
-                    "url": "https://github.com/funpayhub/fph_chat_sync_plugin/releases/download/v1.0.0/chat_sync.zip",
-                    "change_log": ""
+            "description": "Синхронизирует чаты FunPay с Telegram-чатом. Каждому чату FunPay соответствует отдельная тема в Telegram, что позволяет удобно вести диалоги и не терять контекст. Сообщения автоматически пересылаются в обоих направлениях: из FunPay в Telegram и из Telegram обратно в соответствующий чат FunPay.",
+            "author": {
+                "name": "Qvvonk",
+                "mail": "qvvonk@gmail.com",
+                "website": "https://github.com/qvvonk",
+                "social": {
+                    "Telegram": "@qvvonk"
                 }
             },
-            "more_versions": ""
+            "versions": {
+                "1.0.0": {
+                    "hash": "5223e7690cbb12aa77d272bb3a9f2d5d384c15a8eab3bb0e3404a43febf2e327",
+                    "app_version": ">=0.2.2",
+                    "url": "https://github.com/funpayhub/fph_chat_sync_plugin/releases/download/v1.0.0/chat_sync.zip"
+                }
+            }
         },
         "com.github.qvvonk.exec_plugin": {
-            "description": "Предоставляет возможность выполнять произвольный Python-код, включая асинхронный, в Telegram-боте. Фрагменты кода и их вывод можно сохранять и повторно исполнять.",
             "name": "Exec Plugin",
-            "versions": {
-                "1.0.0": {
-                    "app_version": ">=0.2.2",
-                    "url": "https://github.com/funpayhub/fph_exec_plugin/releases/download/v1.0.0/exec_plugin.zip",
-                    "change_log": ""
+            "description": "Предоставляет возможность выполнять произвольный Python-код, включая асинхронный, в Telegram-боте. Фрагменты кода и их вывод можно сохранять и повторно исполнять.",
+            "author": {
+                "name": "Qvvonk",
+                "mail": "qvvonk@gmail.com",
+                "website": "https://github.com/qvvonk",
+                "social": {
+                    "Telegram": "@qvvonk"
                 }
             },
-            "more_versions": ""
+            "versions": {
+                "1.0.0": {
+                    "hash": "0606056e053b2a6142c947cd4155bfb1d0b245ba58796c55c4626a185ea860f4",
+                    "app_version": ">=0.2.2",
+                    "url": "https://github.com/funpayhub/fph_exec_plugin/releases/download/v1.0.0/exec_plugin.zip"
+                }
+            }
         },
         "com.github.kash1dd.old_orders_plugin": {
             "name": "Old Orders Plugin",
             "description": "Добавляет команду /old_orders, которая позволяет просмотреть список старых заказов. (которые старше заданного количества часов в настройках).",
             "description_en": "Adds the /old_orders command, which allows you to view a list of old orders (those older than the specified number of hours in the settings).",
             "description_ua": "Додає команду /old_orders, яка дозволяє переглянути список старих замовлень. (які старші за задану кількість годин у налаштуваннях).",
+            "author": {
+                "name": "kash1dd",
+                "mail": "nonono@gmail.com",
+                "website": "https://github.com/kash1dd",
+                "social": {
+                    "Telegram": "@Mark7227"
+                }
+            },
             "versions": {
                 "1.0.0": {
+                    "hash": "fd62d2a8200a8a1677ab848fb90afdf345c240287b1b9aff9b10e5df2c3bf2b9",
                     "app_version": ">=0.2.7",
-                    "url": "https://github.com/kash1dd/fph_old_orders_plugin/releases/download/1.0.0/old_orders.zip",
-                    "change_log": ""
+                    "url": "https://github.com/kash1dd/fph_old_orders_plugin/releases/download/1.0.0/old_orders.zip"
                 }
             }
         }
