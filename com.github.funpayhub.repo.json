@@ -83,6 +83,11 @@
                     "hash": "c9e7a07a4ef2a478c5c1d388d5ddc9b4208d92c65215d23f4c1c500a35e44e8a",
                     "app_version": ">=0.2.7",
                     "url": "https://github.com/kash1dd/fph_big_buttons_menu_plugin/releases/download/1.0.0/big_buttons_menu.zip"
+                },
+                "1.0.1": {
+                    "hash": "4ad0a6c37065a890cea813dc8a04bbf3b9b373d48780d0bf35ce1defd988b18c",
+                    "app_version": ">=0.2.7",
+                    "url": "https://github.com/kash1dd/fph_keyboard_menu_plugin/releases/download/1.0.1/keyboard_menu.zip"
                 }
             }
         }
