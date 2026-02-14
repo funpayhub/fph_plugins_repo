@@ -63,6 +63,28 @@
                     "url": "https://github.com/kash1dd/fph_old_orders_plugin/releases/download/1.0.0/old_orders.zip"
                 }
             }
+        },
+        "com.github.kash1dd.big_buttons_menu": {
+            "name": "Big Buttons Menu Plugin",
+            "description": "Добавляет большие кнопки снизу для часто используемых команд.",
+            "description_en": "Adds large buttons at the bottom for frequently used commands.",
+            "description_ua": "Додає великі кнопки знизу для команд, що часто використовуються.",
+            "repo": "https://github.com/kash1dd/fph_big_buttons_menu_plugin",
+            "author": {
+                "name": "kash1dd",
+                "mail": "nonono@gmail.com",
+                "website": "https://github.com/kash1dd",
+                "social": {
+                    "Telegram": "@Mark7227"
+                }
+            },
+            "versions": {
+                "1.0.0": {
+                    "hash": "c9e7a07a4ef2a478c5c1d388d5ddc9b4208d92c65215d23f4c1c500a35e44e8a",
+                    "app_version": ">=0.2.7",
+                    "url": "https://github.com/kash1dd/fph_big_buttons_menu_plugin/releases/download/1.0.0/big_buttons_menu.zip"
+                }
+            }
         }
     }
 }
