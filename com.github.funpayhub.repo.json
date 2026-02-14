@@ -28,6 +28,19 @@
                 }
             },
             "more_versions": ""
+        },
+        "com.github.kash1dd.old_orders_plugin": {
+            "name": "Old Orders Plugin",
+            "description": "Добавляет команду /old_orders, которая позволяет просмотреть список старых заказов. (которые старше заданного количества часов в настройках).",
+            "description_en": "Adds the /old_orders command, which allows you to view a list of old orders (those older than the specified number of hours in the settings).",
+            "description_ua": "Додає команду /old_orders, яка дозволяє переглянути список старих замовлень. (які старші за задану кількість годин у налаштуваннях).",
+            "versions": {
+                "1.0.0": {
+                    "app_version": ">=0.2.7",
+                    "url": "https://github.com/kash1dd/fph_old_orders_plugin/releases/download/1.0.0/old_orders.zip",
+                    "change_log": ""
+                }
+            }
         }
     }
 }
