@@ -37,7 +37,7 @@
             },
             "versions": {
                 "1.0.0": {
-                    "hash": "0606056e053b2a6142c947cd4155bfb1d0b245ba58796c55c4626a185ea860f4",
+                    "hash": "e74f5b0ef04bb72dcd1cdad837d99872c9c5dbc8111f0b6f4342e54478cf8583",
                     "app_version": ">=0.2.2",
                     "url": "https://github.com/funpayhub/fph_exec_plugin/releases/download/v1.0.0/plugin.zip"
                 }
