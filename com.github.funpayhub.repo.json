@@ -3,7 +3,7 @@
     "version": 1,
     "id": "com.github.funpayhub.repo",
     "url": "https://raw.githubusercontent.com/funpayhub/fph_plugins_repo/refs/heads/master/com.github.funpayhub.repo.json",
-    "name": "Официальные FPH плагины",
+    "name": "🏠 Официальные плагины 🏠",
     "plugins": {
         "com.github.qvvonk.funpayhub.chat_sync_plugin": {
             "name": "Chat Sync",
