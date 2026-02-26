@@ -90,6 +90,26 @@
                     "url": "https://github.com/kash1dd/fph_keyboard_menu_plugin/releases/download/1.0.1/keyboard_menu.zip"
                 }
             }
+        },
+        "com.github.qvvonk.funpayhub.autostars_plugin": {
+            "name": "✨ AutoStars",
+            "description": "Позволяет автоматически продавать Telegram звезды. Есть возможность настраивать тексты ответов, комментариев к транзакциям с кастомными форматтерами.\n\n⚠\uFE0F Внимание: плагин в активной стадии разработки. Возможны нестабильная работа, ошибки, недостаток функционала.",
+            "repo": "https://github.com/funpayhub/fph_autostars_plugin",
+            "author": {
+                "name": "Qvvonk",
+                "mail": "qvvonk@gmail.com",
+                "website": "https://github.com/qvvonk",
+                "social": {
+                    "Telegram": "@qvvonk"
+                }
+            },
+            "versions": {
+                "0.1.0": {
+                    "hash": "2bcbdb9b64a46c651519cd9bf4122b58d5cf471a86f420c4a07afa4dc557895f",
+                    "app_version": ">=0.4.0",
+                    "url": "https://github.com/funpayhub/fph_autostars_plugin/releases/download/v0.1.0/plugin.zip"
+                }
+            }
         }
     }
 }
