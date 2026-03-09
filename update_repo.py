@@ -26,7 +26,7 @@ def add_plugin_version(
     if plugin_id not in REPO['plugins']:
         raise ValueError(f'Plugin {plugin_id} not found in repo.')
 
-    REPO['plugins'][plugin_id][version] = {
+    REPO['plugins'][plugin_id]['versions'][version] = {
         'hash': hash,
         'app_version': app_version,
         'url': url,
