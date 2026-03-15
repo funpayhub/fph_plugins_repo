@@ -130,9 +130,9 @@
                     "url": "https://github.com/funpayhub/fph_autostars_plugin/releases/download/v0.3.0/plugin.zip"
                 },
                 "0.3.1": {
-                    "hash": "95d86f6fec7ced0b157553dddd4a0b85c1e7e37aabb829b3d25ec7e437de263a",
+                    "hash": "6a45b05161edcb5f97ab25cb7eeea50e479c4c791b128938574c86dbe664d576",
                     "app_version": ">=0.4.7",
-                    "url": "https://github.com/funpayhub/fph_autostars_plugin/releases/download/v0.3.1/plugin.zip"
+                    "url": "https://github.com/funpayhub/fph_autostars_plugin/releases/download/v0.4.0/plugin.zip"
                 }
             }
         }
