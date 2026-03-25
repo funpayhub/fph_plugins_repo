@@ -163,6 +163,11 @@
                     "hash": "8cc3942f447554356d0d47ce6045d15acb6a0b4313d1c89e787ea7e4f109701a",
                     "app_version": ">=0.5.0",
                     "url": "https://github.com/funpayhub/fph_autostars_plugin/releases/download/v0.5.3/plugin.zip"
+                },
+                "0.5.4": {
+                    "hash": "38494f331f2e8f5ae8a6e3db276689ae6f4c7619e5a9b4aafa31535588cc25ee",
+                    "app_version": ">=0.5.0",
+                    "url": "https://github.com/funpayhub/fph_autostars_plugin/releases/download/v0.5.4/plugin.zip"
                 }
             }
         }
