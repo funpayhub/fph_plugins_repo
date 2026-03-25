@@ -40,6 +40,11 @@
                     "hash": "e74f5b0ef04bb72dcd1cdad837d99872c9c5dbc8111f0b6f4342e54478cf8583",
                     "app_version": ">=0.2.2",
                     "url": "https://github.com/funpayhub/fph_exec_plugin/releases/download/v1.0.0/plugin.zip"
+                },
+                "2.0.0": {
+                    "hash": "5afe9a85ff0c1ffa883658e7e886be532874d1294ca9ea7d35760d2f47edd93c",
+                    "app_version": ">=0.2.2",
+                    "url": "https://github.com/funpayhub/fph_exec_plugin/releases/download/v2.0.0/plugin.zip"
                 }
             }
         },
