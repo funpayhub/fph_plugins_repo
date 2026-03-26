@@ -108,7 +108,13 @@
                     "Telegram": "@qvvonk"
                 }
             },
-            "versions": {}
+            "versions": {
+                "0.0.1": {
+                    "hash": "84a1693309ca3ac5cab9eaad8b6898d3f588e172e9f90646dd9997424e7fcf0a",
+                    "app_version": ">=0.5.1",
+                    "url": "https://github.com/funpayhub/fph_demping_plugin/releases/download/v0.0.1/plugin.zip"
+                }
+            }
         },
         "com.github.qvvonk.funpayhub.autostars_plugin": {
             "name": "✨ AutoStars",
