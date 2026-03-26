@@ -113,6 +113,11 @@
                     "hash": "84a1693309ca3ac5cab9eaad8b6898d3f588e172e9f90646dd9997424e7fcf0a",
                     "app_version": ">=0.5.1",
                     "url": "https://github.com/funpayhub/fph_demping_plugin/releases/download/v0.0.1/plugin.zip"
+                },
+                "1.0.0": {
+                    "hash": "17bad9e672b509be31d84f0bc661bcea6c387a7f4a96c1883790332676c33050",
+                    "app_version": ">=0.5.6",
+                    "url": "https://github.com/funpayhub/fph_demping_plugin/releases/download/v1.0.0/plugin.zip"
                 }
             }
         },
