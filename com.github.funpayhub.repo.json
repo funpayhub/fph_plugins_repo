@@ -96,6 +96,20 @@
                 }
             }
         },
+        "com.github.qvvonk.funpayhub.dumping_plugin": {
+            "name": "Демпер",
+            "description": "Позволяет автоматизировать занижение цены против конкурентов.",
+            "repo": "https://github.com/funpayhub/fph_demping_plugin",
+            "author": {
+                "name": "Qvvonk",
+                "mail": "qvvonk@gmail.com",
+                "website": "https://github.com/qvvonk",
+                "social": {
+                    "Telegram": "@qvvonk"
+                }
+            },
+            "versions": {}
+        },
         "com.github.qvvonk.funpayhub.autostars_plugin": {
             "name": "✨ AutoStars",
             "description": "Позволяет автоматически продавать Telegram звезды. Есть возможность настраивать тексты ответов, комментариев к транзакциям с кастомными форматтерами.\n\n⚠️ Внимание: плагин в активной стадии разработки. Возможны нестабильная работа, ошибки, недостаток функционала.",
