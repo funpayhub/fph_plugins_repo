@@ -48,6 +48,27 @@
                 }
             }
         },
+        "com.github.kash1dd.delete_lots": {
+            "name": "Delete Lots Plugin",
+            "description": "Добавляет команду /del_lots, с помощью которой можно выбрать категории, в которых нужно удалить лоты.",
+            "description_en": "Adds the /del_lots command, which allows you to select categories in which lots should be deleted.",
+            "description_ua": "Додає команду /del_lots, за допомогою якої можна вибрати категорії, де потрібно видалити лоти.",
+            "author": {
+                "name": "kash1dd",
+                "mail": "nonono@gmail.com",
+                "website": "https://github.com/kash1dd",
+                "social": {
+                    "Telegram": "@Mark7227"
+                }
+            },
+            "versions": {
+                "1.0.1": {
+                    "hash": "d023fb008bb3dc9c33f273b9136352b6fb40a7c4ca8aabc0581e2f261db5d000",
+                    "app_version": ">=0.5.7",
+                    "url": "https://github.com/kash1dd/fph_delete_lots_plugin/releases/download/1.0.2/delete_lots.zip"
+                }
+            }
+        },
         "com.github.kash1dd.old_orders_plugin": {
             "name": "Old Orders Plugin",
             "description": "Добавляет команду /old_orders, которая позволяет просмотреть список старых заказов. (которые старше заданного количества часов в настройках).",
